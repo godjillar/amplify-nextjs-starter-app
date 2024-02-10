@@ -6,8 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Rakesh Jilla
-          <code className={styles.code}>app/page.tsx</code>
+          <code className={styles.code}>serenDPT</code>
         </p>
       </div>
 
@@ -38,9 +37,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Docs <span>-&gt;</span>
+            Login <span>-&gt;</span>
           </h2>
-          <p>Review documentation for Amplify's code-first DX (Gen 2).</p>
+          <p>Login to serenDPT.</p>
         </a>
 
         <a
@@ -50,9 +49,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Quickstart <span>-&gt;</span>
+            Integration <span>-&gt;</span>
           </h2>
-          <p>Follow a tutorial to build a fullstack app with Amplify Gen 2.</p>
+          <p>Find out what we integrate.</p>
         </a>
 
         <a
@@ -62,9 +61,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Auth <span>-&gt;</span>
+            Automation <span>-&gt;</span>
           </h2>
-          <p>Zero-config Auth UI components with social sign-in and MFA.</p>
+          <p>Know what we automate.</p>
         </a>
 
         <a
@@ -74,10 +73,10 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Data <span>-&gt;</span>
+            About <span>-&gt;</span>
           </h2>
           <p>
-            Fully-typed real-time API with NoSQL database.
+            Who we are?
           </p>
         </a>
       </div>
